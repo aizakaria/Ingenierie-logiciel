@@ -1,6 +1,0 @@
-2-Outils de generation de documentation :
-  -Docutils : avec son célèbre format ReStructuredText, plutôt pour Python
-SandCastle : outil de génération de documentation pour les langages .Net, édité par Microsoft
-Sphinx : outil de génération de documentation pour le langage Python, développé par la Python Software Foundation;
-Visdoc : outil de génération de documentation HTML pour le langage ActionScript 2 (AS2) & 3 (AS3) et Java (MAC uniquement)
-XMLDoc : outil open source de génération de documentation pour les langages .Net (en cours de développement)
