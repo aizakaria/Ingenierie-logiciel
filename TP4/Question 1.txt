@@ -1,0 +1,16 @@
+1-L'intérêt de le documentation pour le code développé c'est qu'elle est utilisé pour définir et expliquer les interfaces de programmation(les API),les structures des données et des algorithmes,le programmeur peut écrire sa documentation en se réferant à son code et peut utiliser les mêmes outils que ceux qu'il a utilisés pour developper le code source,pour faire la documentation.
+La documentation pour le développeur
+Si vous avez développé un outil, que j'appelle clés en main, c'est-à-dire un outil qui va permettre à un développeur d'accélérer son temps de programmation en réutilisant des procédures déjà connues et reconnues dans votre domaine, il est important de lui indiquer comment fonctionne votre programme.
+
+Maintenant, prenons l'autre côté auquel on ne songe, parfois, qu'à la fin de son projet : l'utilisateur final. Si vous avez réalisé un programme complet et complexe, et que vous souhaitez qu'il soit utilisé par le plus grand nombre parce que, disons le tout de suite, votre logiciel est parfaitement bien programmés, vous serez bien obligés de vous rendre compte qu'il faut rédiger une documentation associée ! Mais voilà, qu'est-ce que les gens  vont pouvoir faire avec votre bout de code ? Vous devez alors vous mettre à la place de vos utilisateurs.
+
+Je vais tâcher, dans les points suivants, de vous donner des pistes pour rédiger une bonne documentation pour les développeurs, d'un côté, et pour les utilisateurs, d'un autre. Je ne prétends bien sûr pas avoir la recette miracle, tout est une question d'expérience, de ressenti mais également de formation.  
+La documentation pour le développeur
+Si vous avez développé un outil, que j'appelle clés en main, c'est-à-dire un outil qui va permettre à un développeur d'accélérer son temps de programmation en réutilisant des procédures déjà connues et reconnues dans votre domaine, il est important de lui indiquer comment fonctionne votre programme.
+
+En plus de connaître la raison d'être de l'outil et ce qu'il propose, le développeur doit pouvoir savoir rapidement quels sont :
+
+les paramètres ;
+les variables ;
+les fonctions ;
+les objets.
